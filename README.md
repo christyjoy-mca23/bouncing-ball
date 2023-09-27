@@ -1,4 +1,4 @@
-The provided HTML, CSS, and JavaScript code creates a simple simulation of balls bouncing inside a container. Here's a breakdown and some suggestions for improvement:
+# Bouncing_Ball
 
 1. **Description of the Code:**
    - The HTML file sets up the structure of the page.
@@ -15,4 +15,4 @@ The provided HTML, CSS, and JavaScript code creates a simple simulation of balls
    - **Responsive Design:** Make the simulation responsive by adjusting sizes and positions relative to the container dimensions.
    - **User Interaction:** Allow users to control the simulation or add controls to change parameters like gravity, ball count, etc.
 
-Remember to test and iterate on your code to achieve the desired functionality and appearance.
+
